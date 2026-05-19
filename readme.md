@@ -24,7 +24,6 @@ The project uncovers insights related to customer spending patterns, subscriptio
 - PostgreSQL
 - Power BI
 - Jupyter Notebook
-- Plotly / Matplotlib
 
 ---
 
