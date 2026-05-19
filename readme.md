@@ -110,7 +110,7 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 https://github.com/NivethaS1107
 
 ### LinkedIn
-[(Add your LinkedIn profile link here)](https://www.linkedin.com/in/nivetha1107/)
+[(https://www.linkedin.com/in/nivetha1107/)](https://www.linkedin.com/in/nivetha1107/)
 
 ---
 
